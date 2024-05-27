@@ -10,6 +10,6 @@ python train.py
 Dataset : GSM8K 
 
 <div style="display: flex;">
-    <img src="loss_curve.png" width="400" />
-    <img src="perplexity_curve.png" width="400" />
+    <img src="images/loss_curve.png" width="400" />
+    <img src="images/perplexity_curve.png" width="400" />
 </div>
